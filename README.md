@@ -13,10 +13,10 @@ Tech Stack:-
 
 Project Structure:-
 wardrobe/
-# app.py        (Main Flask application)
-# models.py     (Database models)
-# README.md     (Project documentation)
-# .gitignore
+-- app.py        (Main Flask application)
+-- models.py     (Database models)
+-- README.md     (Project documentation)
+-- .gitignore
 
  Features
 - Backend APIs using Flask
